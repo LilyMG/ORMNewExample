@@ -1,0 +1,20 @@
+#
+# generated on 2015/05/22 02:42:23
+#
+# --table-start--
+dataClass=com.example.lilit.ormnewexample.User
+tableName=users
+# --table-fields-start--
+# --field-start--
+fieldName=id
+id=true
+# --field-end--
+# --field-start--
+fieldName=username
+# --field-end--
+# --field-start--
+fieldName=password
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
